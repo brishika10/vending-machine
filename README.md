@@ -1,2 +1,2 @@
 # vending-machine
-### using finite state machine
+###### using finite state machine
